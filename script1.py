@@ -28,6 +28,8 @@ cv2.imshow('image of a cat',img)
 filename = 'abc.png'
 cv2.imwrite(filename, img)
 
+print('Succesfully Saved')
+
 
 
 
