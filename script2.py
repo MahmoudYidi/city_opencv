@@ -11,8 +11,6 @@ import cv2
 img = cv2.imread('rgb.png')
 
 ######################
-
-
 #### Split images into 3 colour spaces BGR ####
 
 B, G, R =cv2.split(img)

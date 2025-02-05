@@ -7,11 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-
-
 #path = r"/"
-
-
 
 img = cv2.imread('robot2.jpg',0)
 
