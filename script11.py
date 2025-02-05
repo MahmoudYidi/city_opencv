@@ -16,8 +16,6 @@ import matplotlib.pyplot as plt
 img = cv2.imread('robot2.jpg',0)
 
 
-
-
 equalized = cv2.equalizeHist(img)
 
 

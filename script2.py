@@ -17,8 +17,6 @@ img = cv2.imread('rgb.png')
 
 B, G, R =cv2.split(img)
 
-
-
 ### Display the image ###
 cv2.imshow('Main',img)
 cv2.waitKey(0)
